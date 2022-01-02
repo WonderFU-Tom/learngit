@@ -9,3 +9,4 @@ merging two branches is easy and simple
 merging two branches is simple 
 >>>>>>> feature1
 branch management test
+stash test
